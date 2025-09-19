@@ -14,6 +14,11 @@ pour chaque point (coordonnées x et y) de l'écran.En fonction du point, la sui
 
 Le résultat est une image fixe du fractal de Mandelbrot avec une palette de couleurs représentant le comportement des points dans le point complexe.
 
+### Capture d'écran
+
+<img width="800" height="500" alt="fractal_0000" src="https://github.com/user-attachments/assets/49821f1b-f724-41f3-a0bb-39b0a98b24b7" />
+
+
 ## English
 
 ### Description
@@ -28,3 +33,6 @@ for each point (x and y coordinates) on the screen. Depending on the point, the 
 
 The result is a still image of the Mandelbrot fractal with a color palette representing the behavior of the points within the complex point.
 
+### Screenshot
+
+<img width="800" height="500" alt="fractal_0000" src="https://github.com/user-attachments/assets/49821f1b-f724-41f3-a0bb-39b0a98b24b7" />
