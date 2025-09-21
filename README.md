@@ -4,6 +4,7 @@
 
 ### Description
 Ce projet illustre le fractal de **Mandelbrot** en Python avec Pygame.
+Regardez l’animation du zoom fractal (Mandelbrot & Julia) sur YouTube : [Vidéo Zoom Fractal]((https://youtu.be/eYUTN04xZbY)
 
 ### Fonctionnement
 Le code teste la formule: 
@@ -23,6 +24,7 @@ Le résultat est une image fixe du fractal de Mandelbrot avec une palette de cou
 
 ### Description
 This project illustrates the **Mandelbrot** fractal in Python using Pygame.
+Watch the fractal zoom animation (Mandelbrot & Julia) on YouTube: [Fractal Zoom Video](https://youtu.be/eYUTN04xZbY)
 
 ### How it works
 The code tests the formula:
